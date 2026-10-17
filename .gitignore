@@ -1,0 +1,21 @@
+# Nested git repos (track CSVs separately in data/)
+goodbooks-10k/
+
+# Virtual environments
+crawl_env/
+rs_env/
+env/
+*env/
+
+# Browser contexts and profiles
+chromium_profile/
+firefox-profile/
+.playwright/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log

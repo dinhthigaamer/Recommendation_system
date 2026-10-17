@@ -1,0 +1,4 @@
+scrapy>=2.11.0
+scrapy-playwright>=0.0.40
+playwright>=1.40.0
+pandas>=2.0.0
