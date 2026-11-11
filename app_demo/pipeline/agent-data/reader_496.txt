@@ -1,0 +1,105 @@
+Reader #496 (104 ratings, mean 4.43). Format: rating | title | authors | genres
+5 | Rapture in Death (In Death, #4) | J.D. Robb, Susan Ericksen | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Immortal in Death (In Death, #3) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Naked in Death (In Death, #1) | J.D. Robb | (no genres crawled)
+5 | Calculated in Death (In Death, #36) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Kindred in Death (In Death, #29) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Promises in Death (In Death, #28) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Salvation in Death (In Death, #27) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Strangers in Death (In Death, #26) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Creation in Death (In Death, #25) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Innocent in Death (In Death, #24) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Born in Death (In Death, #23) | J.D. Robb, Nora Roberts | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Memory in Death (In Death, #22) | J.D. Robb, Nora Roberts | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Origin in Death (In Death, #21) | J.D. Robb, Nora Roberts | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Survivor in Death (In Death, #20) | J.D. Robb, Nora Roberts | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Visions in Death (In Death, #19) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Divided in Death (In Death, #18) | J.D. Robb, Nora Roberts | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Portrait in Death (In Death, #16) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Purity in Death (In Death, #15) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Seduction in Death (In Death, #13) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Betrayal in Death (In Death, #12) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Judgment in Death (In Death, #11) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+5 | Witness in Death (In Death, #10) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Conspiracy in Death (In Death, #8) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+5 | Glory in Death (In Death, #2) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Audiobook
+5 | Gentle Rogue (Malory-Anderson Family, #3) | Johanna Lindsey | Historical Romance, Romance, Historical, Pirates, Regency, Historical Fiction
+5 | Prisoner of My Desire | Johanna Lindsey | Historical Romance, Romance, Historical, Medieval, Enemies To Lovers, Historical Fiction
+5 | Darkfever (Fever, #1) | Karen Marie Moning | Fantasy, Urban Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | Bloodfever (Fever, #2) | Karen Marie Moning | Fantasy, Urban Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | Shadowfever (Fever, #5) | Karen Marie Moning | Fantasy, Urban Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | Dreamfever (Fever, #4) | Karen Marie Moning | Fantasy, Urban Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | Faefever (Fever, #3) | Karen Marie Moning | Fantasy, Urban Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | Beyond the Highland Mist (Highlander, #1) | Karen Marie Moning | Romance, Time Travel, Historical Romance, Fantasy, Paranormal Romance, Paranormal
+5 | Kiss of the Highlander (Highlander, #4) | Karen Marie Moning | Romance, Time Travel, Historical Romance, Paranormal Romance, Fantasy, Paranormal
+5 | Burned (Fever, #7) | Karen Marie Moning | Urban Fantasy, Fantasy, Paranormal, Romance, Fae, Paranormal Romance
+5 | The Dark Highlander (Highlander, #5) | Karen Marie Moning | Romance, Time Travel, Paranormal Romance, Paranormal, Historical Romance, Fantasy
+5 | The Immortal Highlander (Highlander, #6) | Karen Marie Moning | Romance, Paranormal Romance, Paranormal, Fantasy, Time Travel, Historical Romance
+5 | To Tame a Highland Warrior (Highlander, #2) | Karen Marie Moning | Romance, Historical Romance, Paranormal Romance, Paranormal, Fantasy, Historical
+5 | The Highlander's Touch (Highlander, #3) | Karen Marie Moning | Romance, Time Travel, Historical Romance, Paranormal Romance, Fantasy, Paranormal
+5 | Spell of the Highlander (Highlander, #7) | Karen Marie Moning | Romance, Paranormal Romance, Paranormal, Fantasy, Time Travel, Historical Romance
+5 | Twilight (The Twilight Saga, #1) | Stephenie Meyer | Fantasy, Young Adult, Romance, Fiction, Vampires, Paranormal
+5 | New Moon (The Twilight Saga, #2) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+5 | Eclipse (The Twilight Saga, #3) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+5 | Breaking Dawn (The Twilight Saga, #4) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+5 | Vision in White (Bride Quartet, #1) | Nora Roberts | (no genres crawled)
+5 | Dance Upon the Air (Three Sisters Island, #1) | Nora Roberts | Romance, Paranormal, Fantasy, Fiction, Contemporary Romance, Paranormal Romance
+5 | Born in Fire (Born In Trilogy, #1) | Nora Roberts | Romance, Contemporary Romance, Contemporary, Fiction, Chick Lit, Ireland
+5 | Bed of Roses (Bride Quartet, #2) | Nora Roberts | Romance, Contemporary Romance, Contemporary, Fiction, Chick Lit, Adult
+5 | Happy Ever After (Bride Quartet, #4) | Nora Roberts | (no genres crawled)
+5 | Heaven and Earth (Three Sisters Island, #2) | Nora Roberts | Romance, Paranormal, Fantasy, Fiction, Contemporary Romance, Paranormal Romance
+5 | Red Lily (In the Garden, #3) | Nora Roberts | Romance, Fiction, Paranormal, Contemporary Romance, Contemporary, Paranormal Romance
+5 | Face the Fire (Three Sisters Island, #3) | Nora Roberts | Romance, Paranormal, Fantasy, Fiction, Contemporary Romance, Paranormal Romance
+5 | Chesapeake Blue (Chesapeake Bay Saga, #4) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Chick Lit, Adult
+5 | Inner Harbor (Chesapeake Bay Saga, #3) | Nora Roberts | (no genres crawled)
+5 | Rising Tides (Chesapeake Bay Saga, #2) | Nora Roberts | Romance, Contemporary Romance, Contemporary, Fiction, Chick Lit, Adult
+5 | High Noon | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Suspense, Contemporary Romance
+5 | Daring to Dream (Dream Trilogy, #1) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Chick Lit, Adult
+5 | Holding the Dream (Dream Trilogy, #2) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Chick Lit, Adult
+5 | This Heart of Mine (Chicago Stars, #5) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Sports, Sports Romance, Chick Lit
+5 | Bet Me | Jennifer Crusie | Romance, Chick Lit, Contemporary Romance, Contemporary, Fiction, Humor
+5 | Welcome to Temptation (Dempseys, #1) | Jennifer Crusie | (no genres crawled)
+5 | Anyone But You | Jennifer Crusie | Romance, Contemporary Romance, Chick Lit, Contemporary, Fiction, Humor
+5 | Crazy For You | Jennifer Crusie | Romance, Chick Lit, Contemporary Romance, Contemporary, Fiction, Humor
+5 | It Ends with Us (It Ends with Us, #1) | Colleen Hoover | Romance, Fiction, Contemporary, Colleen Hoover, Audiobook, New Adult
+4 | Concealed in Death (In Death, #38) | J.D. Robb | Mystery, Romance, Fiction, Crime, Romantic Suspense, Futuristic
+4 | Thankless in Death (In Death, #37) | J.D. Robb | Mystery, Romance, Crime, Fiction, Futuristic, Romantic Suspense
+4 | Loyalty in Death (In Death, #9) | J.D. Robb | Mystery, Romance, Crime, Romantic Suspense, Fiction, Futuristic
+4 | Notorious Nineteen (Stephanie Plum, #19) | Janet Evanovich | Mystery, Fiction, Humor, Romance, Chick Lit, Audiobook
+4 | Iced (Fever, #6) | Karen Marie Moning | Urban Fantasy, Fantasy, Paranormal, Fae, Romance, Paranormal Romance
+4 | Delusion in Death (In Death, #35) | J.D. Robb | Mystery, Romance, Crime, Fiction, Romantic Suspense, Futuristic
+4 | The Witness | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Suspense, Contemporary
+4 | The Search | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Suspense, Contemporary
+4 | Savor the Moment (Bride Quartet, #3) | Nora Roberts, Angela Dawe | Romance, Contemporary Romance, Contemporary, Fiction, Chick Lit, Adult
+4 | Black Rose (In the Garden #2) | Nora Roberts | Romance, Fiction, Paranormal, Contemporary Romance, Contemporary, Mystery
+4 | Black Hills | Nora Roberts | Romance, Romantic Suspense, Fiction, Mystery, Suspense, Contemporary
+4 | Born in Ice (Born In Trilogy, #2) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Chick Lit, Ireland
+4 | Blue Smoke | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Suspense, Contemporary
+4 | The Hollow (Sign of Seven, #2) | Nora Roberts | Romance, Paranormal, Fantasy, Paranormal Romance, Fiction, Contemporary
+4 | Born in Shame (Born In Trilogy, #3) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Ireland, Chick Lit
+4 | Dance of the Gods (Circle Trilogy, #2) | Nora Roberts | Romance, Fantasy, Paranormal, Paranormal Romance, Vampires, Fiction
+4 | The Villa | Nora Roberts | Romance, Fiction, Romantic Suspense, Contemporary Romance, Contemporary, Mystery
+4 | Tribute | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Contemporary Romance, Contemporary
+4 | Kiss an Angel | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Enemies To Lovers, Marriage Of Convenience, Chick Lit
+4 | Match Me If You Can (Chicago Stars, #6) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Chick Lit, Sports, Sports Romance
+4 | Nobody's Baby But Mine (Chicago Stars, #3) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Sports, Sports Romance, Chick Lit
+4 | Ain't She Sweet? | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Chick Lit, Enemies To Lovers, Fiction
+4 | Call Me Irresistible (Wynette, Texas, #6) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Chick Lit, Enemies To Lovers, Fiction
+4 | Faking It (Dempseys, #2) | Jennifer Crusie | Romance, Chick Lit, Contemporary Romance, Fiction, Contemporary, Humor
+3 | Shadow Spell (The Cousins O'Dwyer Trilogy, #2) | Nora Roberts | Romance, Fantasy, Paranormal, Fiction, Paranormal Romance, Magic
+3 | Dark Witch (The Cousins O'Dwyer Trilogy, #1) | Nora Roberts | Romance, Fantasy, Paranormal, Fiction, Witches, Paranormal Romance
+3 | The Perfect Hope (Inn Boonsboro Trilogy, #3) | Nora Roberts | Romance, Contemporary Romance, Fiction, Contemporary, Chick Lit, Paranormal
+3 | Fifty Shades Freed (Fifty Shades, #3) | E.L. James | Romance, Erotica, Fiction, BDSM, Adult, Contemporary
+3 | Fifty Shades Darker (Fifty Shades, #2) | E.L. James | Romance, Fiction, Erotica, BDSM, Adult, Contemporary
+3 | Blue Dahlia (In the Garden, #1) | Nora Roberts | Romance, Fiction, Paranormal, Contemporary Romance, Contemporary, Mystery
+3 | Blood Brothers (Sign of Seven, #1) | Nora Roberts | Romance, Paranormal, Fantasy, Paranormal Romance, Fiction, Mystery
+3 | Northern Lights | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Contemporary Romance, Contemporary
+3 | Midnight Bayou | Nora Roberts | Romance, Fiction, Mystery, Paranormal, Romantic Suspense, Contemporary Romance
+3 | Key of Valor (Key Trilogy, #3) | Nora Roberts | Romance, Fantasy, Paranormal, Fiction, Paranormal Romance, Contemporary Romance
+3 | Blood Magick (The Cousins O'Dwyer Trilogy, #3) | Nora Roberts | Romance, Fantasy, Paranormal, Fiction, Paranormal Romance, Magic
+3 | Birthright | Nora Roberts | Romance, Romantic Suspense, Mystery, Fiction, Contemporary, Contemporary Romance
+3 | Sanctuary | Nora Roberts | Romance, Romantic Suspense, Fiction, Mystery, Contemporary Romance, Suspense
+3 | Natural Born Charmer (Chicago Stars, #7) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Sports, Chick Lit, Sports Romance
+3 | Dream a Little Dream (Chicago Stars, #4) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Chick Lit, Sports, Sports Romance
+3 | Heaven, Texas (Chicago Stars, #2) | Susan Elizabeth Phillips | Romance, Contemporary Romance, Contemporary, Sports, Sports Romance, Chick Lit
+2 | Agnes and the Hitman (The Organization, #0) | Jennifer Crusie, Bob Mayer | Romance, Chick Lit, Mystery, Contemporary Romance, Contemporary, Fiction

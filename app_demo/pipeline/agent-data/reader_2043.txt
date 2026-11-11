@@ -1,0 +1,93 @@
+Reader #2043 (92 ratings, mean 4.01). Format: rating | title | authors | genres
+5 | The Vile Village (A Series of Unfortunate Events, #7) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+5 | Twilight (The Twilight Saga, #1) | Stephenie Meyer | Fantasy, Young Adult, Romance, Fiction, Vampires, Paranormal
+5 | Inkspell (Inkworld, #2) | Cornelia Funke | Fantasy, Young Adult, Fiction, Middle Grade, Childrens, Adventure
+5 | Harry Potter and the Prisoner of Azkaban (Harry Potter, #3) | J.K. Rowling, Mary GrandPré | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+5 | The Sea of Monsters (Percy Jackson and the Olympians, #2) | Rick Riordan | Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Percy Jackson
+5 | The Lightning Thief (Percy Jackson and the Olympians, #1) | Rick Riordan | Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Percy Jackson
+5 | The Titan’s Curse (Percy Jackson and the Olympians, #3) | Rick Riordan | Fantasy, Young Adult, Mythology, Fiction, Percy Jackson, Middle Grade
+5 | The Battle of the Labyrinth (Percy Jackson and the Olympians, #4) | Rick Riordan | Fantasy, Young Adult, Mythology, Fiction, Percy Jackson, Middle Grade
+5 | Dragon Rider (Dragon Rider, #1) | Cornelia Funke | Fantasy, Dragons, Young Adult, Fiction, Middle Grade, Childrens
+5 | Eragon (The Inheritance Cycle #1) | Christopher Paolini | Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic
+5 | The Alchemist | Paulo Coelho, Alan R. Clarke | Fiction, Classics, Fantasy, Philosophy, Self Help, Book Club
+5 | Vampire Knight, Vol. 1 (Vampire Knight, #1) | Matsuri Hino | Manga, Vampires, Romance, Fantasy, Graphic Novels, Young Adult
+5 | Vampire Knight, Vol. 2 (Vampire Knight, #2) | Matsuri Hino | Manga, Vampires, Fantasy, Romance, Graphic Novels, Young Adult
+5 | Peter and the Starcatchers (Peter and the Starcatchers, #1) | Dave Barry, Ridley Pearson, Greg Call | Fantasy, Young Adult, Fiction, Middle Grade, Adventure, Childrens
+5 | Fruits Basket, Vol. 1 | Natsuki Takaya | Manga, Fantasy, Romance, Graphic Novels, Young Adult, Comics
+5 | Fruits Basket, Vol. 4 | Natsuki Takaya, Alethea Nibley, Athena Nibley | Manga, Fantasy, Romance, Graphic Novels, Young Adult, Fiction
+5 | D.N.Angel, Vol. 1 (D.N.Angel, #1) | Yukiru Sugisaki | Manga, Fantasy, Romance, Graphic Novels, Comics, Fiction
+5 | Cardcaptor Sakura, Vol. 1 (Cardcaptor Sakura, #1) | Clamp, Maria Simpson | Manga, Fantasy, Graphic Novels, Comics, Romance, Shojo
+5 | Breaking Dawn (The Twilight Saga, #4) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+5 | An Abundance of Katherines | John  Green | Young Adult, Fiction, Romance, Contemporary, Realistic Fiction, Coming Of Age
+4 | Harry Potter and the Deathly Hallows (Harry Potter, #7) | J.K. Rowling | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | The End (A Series of Unfortunate Events, #13) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Middle Grade, Childrens, Fantasy, Mystery
+4 | The Reptile Room (A Series of Unfortunate Events, #2) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+4 | The Bad Beginning (A Series of Unfortunate Events, #1) | Lemony Snicket, Brett Helquist | Fiction, Fantasy, Young Adult, Childrens, Middle Grade, Mystery
+4 | The Wide Window (A Series of Unfortunate Events, #3) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+4 | The Miserable Mill (A Series of Unfortunate Events, #4) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+4 | The Ersatz Elevator (A Series of Unfortunate Events, #6) | Lemony Snicket, Tim Curry | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+4 | Eclipse (The Twilight Saga, #3) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+4 | The Penultimate Peril (A Series of Unfortunate Events, #12) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Middle Grade, Childrens, Mystery, Fantasy
+4 | The Slippery Slope (A Series of Unfortunate Events, #10) | Lemony Snicket, Brett Helquist | (no genres crawled)
+4 | Harry Potter and the Sorcerer's Stone (Harry Potter, #1) | J.K. Rowling | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | The Golden Compass (His Dark Materials, #1) | Philip Pullman | (no genres crawled)
+4 | Inkheart (Inkworld, #1) | Cornelia Funke, Anthea Bell | Fantasy, Young Adult, Fiction, Middle Grade, Childrens, Adventure
+4 | Of Mice and Men | John Steinbeck | Classics, Fiction, School, Historical Fiction, Literature, Read For School
+4 | To Kill a Mockingbird | Harper Lee | Classics, Fiction, Historical Fiction, School, Literature, Young Adult
+4 | Magic Study (Study, #2) | Maria V. Snyder | Fantasy, Young Adult, Magic, Romance, Fiction, High Fantasy
+4 | Poison Study (Study, #1) | Maria V. Snyder | (no genres crawled)
+4 | Harry Potter and the Goblet of Fire (Harry Potter, #4) | J.K. Rowling, Mary GrandPré | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | Harry Potter and the Chamber of Secrets (Harry Potter, #2) | J.K. Rowling, Mary GrandPré | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | The Subtle Knife (His Dark Materials, #2) | Philip Pullman | Fantasy, Young Adult, Fiction, Audiobook, Adventure, Childrens
+4 | The Amber Spyglass (His Dark Materials, #3) | Philip Pullman | Fantasy, Young Adult, Fiction, Audiobook, Adventure, Science Fiction
+4 | Harry Potter and the Order of the Phoenix (Harry Potter, #5) | J.K. Rowling, Mary GrandPré | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | Harry Potter and the Half-Blood Prince (Harry Potter, #6) | J.K. Rowling | Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook
+4 | Magyk (Septimus Heap, #1) | Angie Sage, Mark Zug | Fantasy, Young Adult, Middle Grade, Fiction, Magic, Childrens
+4 | Flyte (Septimus Heap, #2) | Angie Sage, Mark Zug | (no genres crawled)
+4 | Physik (Septimus Heap, #3) | Angie Sage, Mark Zug | Fantasy, Young Adult, Magic, Fiction, Middle Grade, Childrens
+4 | All-American Girl (All-American Girl, #1) | Meg Cabot | Young Adult, Romance, Fiction, Contemporary, Chick Lit, Teen
+4 | Alanna: The First Adventure (Song of the Lioness, #1) | Tamora Pierce | (no genres crawled)
+4 | In the Hand of the Goddess (Song of the Lioness, #2) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Adventure, Young Adult Fantasy
+4 | Lioness Rampant (Song of the Lioness, #4) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Young Adult Fantasy, Adventure
+4 | The Woman Who Rides Like a Man (Song of the Lioness, #3) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Adventure, Young Adult Fantasy
+4 | Wild Magic (Immortals, #1) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Young Adult Fantasy, Adventure
+4 | Wolf-Speaker (The Immortals, #2) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Young Adult Fantasy, Adventure
+4 | Trickster's Queen (Daughter of the Lioness, #2) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Romance
+4 | Squire (Protector of the Small, #3) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Adventure
+4 | Lady Knight (Protector of the Small, #4) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Adventure
+4 | The Realms of the Gods (Immortals, #4) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Young Adult Fantasy, Dragons
+4 | First Test (Protector of the Small, #1) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Adventure
+4 | Page (Protector of the Small, #2) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Adventure
+4 | Trickster's Choice (Daughter of the Lioness, #1) | Tamora Pierce | Fantasy, Young Adult, Fiction, Young Adult Fantasy, Magic, Adventure
+4 | Island of the Blue Dolphins | Scott O'Dell | Fiction, Young Adult, Historical Fiction, Classics, Childrens, Middle Grade
+4 | The Sea of Trolls (Sea of Trolls, #1) | Nancy Farmer | Fantasy, Young Adult, Fiction, Mythology, Historical Fiction, Adventure
+4 | The House of the Spirits | Isabel Allende, Magda Bogin | Fiction, Magical Realism, Historical Fiction, Classics, Fantasy, Book Club
+4 | Vampire Knight, Vol. 3 (Vampire Knight, #3) | Matsuri Hino, Tomo Kimura | Manga, Vampires, Romance, Fantasy, Graphic Novels, Young Adult
+4 | The Akhenaten Adventure (Children of the Lamp, #1) | P.B. Kerr | Fantasy, Young Adult, Middle Grade, Fiction, Adventure, Childrens
+4 | So You Want to Be a Wizard (Young Wizards, #1) | Diane Duane | Fantasy, Young Adult, Fiction, Magic, Middle Grade, Urban Fantasy
+4 | Peter and the Shadow Thieves (Peter and the Starcatchers, #2) | Dave Barry, Ridley Pearson, Greg Call | Fantasy, Young Adult, Fiction, Middle Grade, Adventure, Childrens
+4 | Peter and the Secret of Rundoon (Peter and the Starcatchers, #3) | Dave Barry, Ridley Pearson, Greg Call | Fantasy, Young Adult, Fiction, Middle Grade, Adventure, Childrens
+4 | East (East, #1) | Edith Pattou | Fantasy, Young Adult, Romance, Retellings, Fairy Tales, Fiction
+4 | The Naming (The Books of Pellinor, #1) | Alison Croggon | Fantasy, Young Adult, Fiction, High Fantasy, Magic, Young Adult Fantasy
+4 | The Riddle (The Books of Pellinor #2) | Alison Croggon | Fantasy, Young Adult, Fiction, Magic, High Fantasy, Young Adult Fantasy
+4 | The Truth About Forever | Sarah Dessen | Young Adult, Romance, Contemporary, Fiction, Chick Lit, Realistic Fiction
+4 | Fruits Basket, Vol. 2 | Natsuki Takaya | Manga, Fantasy, Romance, Graphic Novels, Young Adult, Fiction
+4 | Fruits Basket, Vol. 3 | Natsuki Takaya | Manga, Fantasy, Romance, Graphic Novels, Young Adult, Fiction
+4 | Emperor Mage (The Immortals, #3) | Tamora Pierce | Fantasy, Young Adult, Fiction, Magic, Young Adult Fantasy, Adventure
+4 | Tokyo Mew Mew, Vol. 1 (Tokyo Mew Mew, #1) | Mia Ikumi, Reiko Yoshida | Manga, Fantasy, Romance, Graphic Novels, Comics, Shojo
+4 | Tsubasa: RESERVoir CHRoNiCLE, Vol. 01 (Tsubasa: RESERVoir CHRoNiCLE, #1) | Clamp, Anthony Gerard | Manga, Fantasy, Graphic Novels, Comics, Romance, Adventure
+4 | Full Moon o Sagashite, Vol. 1 | Arina Tanemura, Tomo Kimura | Manga, Fantasy, Romance, Graphic Novels, Shojo, Comics
+3 | The Austere Academy (A Series of Unfortunate Events, #5) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+3 | The Hostile Hospital (A Series of Unfortunate Events, #8) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Childrens, Middle Grade, Fantasy, Mystery
+3 | The Carnivorous Carnival (A Series of Unfortunate Events, #9) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Middle Grade, Childrens, Fantasy, Mystery
+3 | The Grim Grotto (A Series of Unfortunate Events, #11) | Lemony Snicket, Brett Helquist | Fiction, Young Adult, Middle Grade, Childrens, Fantasy, Mystery
+3 | New Moon (The Twilight Saga, #2) | Stephenie Meyer | Fantasy, Young Adult, Romance, Vampires, Fiction, Paranormal
+3 | Fire Study (Study, #3) | Maria V. Snyder | Fantasy, Young Adult, Magic, Romance, Fiction, High Fantasy
+3 | Ready or Not (All-American Girl, #2) | Meg Cabot | Young Adult, Romance, Chick Lit, Contemporary, Fiction, Teen
+3 | Eldest (The Inheritance Cycle, #2) | Christopher Paolini | Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic
+3 | City of the Beasts (Eagle and Jaguar, #1) | Isabel Allende, Margaret Sayers Peden | Fantasy, Young Adult, Fiction, Adventure, Spanish Literature, Magical Realism
+3 | The Da Vinci Code (Robert Langdon, #2) | Dan    Brown | Fiction, Mystery, Thriller, Mystery Thriller, Historical Fiction, Suspense
+3 | Kare Kano: His and Her Circumstances, Vol. 1 | Masami Tsuda, Darcy  Lockman, Jack Niida | Manga, Romance, Graphic Novels, Comics, Shojo, Young Adult
+2 | Romeo and Juliet | William Shakespeare | Classics, Plays, Fiction, Romance, School, Shakespeare
+1 | The Illustrated Man | Ray Bradbury | Science Fiction, Short Stories, Fiction, Classics, Fantasy, Horror
+1 | The Prince | Niccolò Machiavelli, Rufus Goodwin, Benjamin Martinez, W.K. Marriott, Denis Daly, Μαρία Κασωτάκη | Philosophy, Classics, Nonfiction, Politics, History, Political Science

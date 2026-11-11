@@ -1,0 +1,375 @@
+[
+ {
+  "reader_id": 2043,
+  "queries": [
+   {
+    "query": "best young adult fantasy books 2025",
+    "purpose_vi": "Tìm danh sách sách YA fantasy hay nhất năm 2025 (Kirkus, Reactor) hợp gu fantasy/romance của người đọc",
+    "results_used": 2
+   },
+   {
+    "query": "Rick Riordan new book 2025 2026 release",
+    "purpose_vi": "Tìm sách mới của Rick Riordan, tác giả Percy Jackson mà người đọc chấm 5 sao",
+    "results_used": 1
+   },
+   {
+    "query": "best new shojo manga 2025 fantasy romance",
+    "purpose_vi": "Tìm manga shojo fantasy-romance mới 2025 giống Vampire Knight, Fruits Basket",
+    "results_used": 2
+   },
+   {
+    "query": "Tamora Pierce Cornelia Funke Christopher Paolini new book 2025",
+    "purpose_vi": "Kiểm tra sách mới của các tác giả người đọc yêu thích (Pierce, Funke, Paolini)",
+    "results_used": 1
+   }
+  ],
+  "books": [
+   {
+    "title": "Camp Half-Blood: The Wild Zone",
+    "author": "Rick Riordan, Annabelle Oh",
+    "year": 2026,
+    "why_vi": "Bạn chấm 5 sao cả bốn tập Percy Jackson đầu, và cuốn mới này diễn ra ở Trại Con Lai đúng giữa The Lightning Thief và The Sea of Monsters.",
+    "related_history": [
+     "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+     "The Sea of Monsters (Percy Jackson and the Olympians, #2)"
+    ],
+    "source_url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/05/12/rick-riordan-unveils-new-camp-half-blood-novels-starting-this-fall",
+    "source_name": "NY1 (AP)",
+    "snippet": "Camp Half-Blood Book 1, co-written with Annabelle Oh, out Sept. 29, 2026; set at Camp Half-Blood between The Lightning Thief and The Sea of Monsters.",
+    "query_index": 1
+   },
+   {
+    "title": "Inkworld: The Color of Revenge",
+    "author": "Cornelia Funke",
+    "year": 2024,
+    "why_vi": "Bạn chấm Inkspell 5 sao và Inkheart 4 sao, và đây là tập 4 của chính series Inkheart, lấy bối cảnh 16 năm sau và xoay quanh Dustfinger.",
+    "related_history": [
+     "Inkheart (Inkworld, #1)",
+     "Inkspell (Inkworld, #2)"
+    ],
+    "source_url": "https://www.kirkusreviews.com/book-reviews/cornelia-funke/inkworld/",
+    "source_name": "Kirkus Reviews",
+    "snippet": "Fourth Inkheart book, sequel to Inkdeath set sixteen years later; Orpheus schemes to lure Dustfinger to his death. Release Nov. 12, 2024 (Chicken House/Scholastic).",
+    "query_index": 3
+   },
+   {
+    "title": "Among Ghosts",
+    "author": "Rachel Hartman",
+    "year": 2025,
+    "why_vi": "Bạn mê truyện rồng như Eragon và Dragon Rider, và cuốn YA fantasy 2025 này xoay quanh một con rồng mang hình người.",
+    "related_history": [
+     "Eragon (The Inheritance Cycle #1)",
+     "Dragon Rider (Dragon Rider, #1)"
+    ],
+    "source_url": "https://reactormag.com/notable-young-adult-science-fiction-fantasy-and-horror-of-2025/",
+    "source_name": "Reactor",
+    "snippet": "Listed under Fantasy in Reactor's notable YA SFF of 2025: \"a dragon in human form\".",
+    "query_index": 0
+   },
+   {
+    "title": "Of Flame and Fury",
+    "author": "Mikayla Bridge",
+    "year": 2025,
+    "why_vi": "Bạn thích fantasy pha lãng mạn như Magic Study và Twilight, và cuốn này được Kirkus khen nhờ phần thi đấu căng thẳng cùng chuyện tình ngọt ngào.",
+    "related_history": [
+     "Magic Study (Study, #2)",
+     "Twilight (The Twilight Saga, #1)"
+    ],
+    "source_url": "https://www.kirkusreviews.com/book-lists/best-teen-ya-fantasy-science-fiction-2025/",
+    "source_name": "Kirkus Reviews",
+    "snippet": "\"High-stakes competition, swoony romance, and expertly crafted worldbuilding distinguish this debut.\" (July 15, 2025)",
+    "query_index": 0
+   },
+   {
+    "title": "The Ayakashi Hunter's Tainted Bride, Vol. 1",
+    "author": "Mamenosuke Fujimaru",
+    "year": 2025,
+    "why_vi": "Bạn chấm 5 sao Vampire Knight và Fruits Basket, và manga này cũng kết hợp yêu quái, lịch sử kỳ ảo với câu chuyện cô dâu lãng mạn.",
+    "related_history": [
+     "Vampire Knight, Vol. 1 (Vampire Knight, #1)",
+     "Fruits Basket, Vol. 1"
+    ],
+    "source_url": "https://www.risingshadow.net/searchlist/manga/2025",
+    "source_name": "Risingshadow",
+    "snippet": "The Ayakashi Hunter's Tainted Bride (Mamenosuke Fujimaru), tagged Fantasy, Demon, Historical Fantasy, Yōkai; Vol. 1: March 25, 2025.",
+    "query_index": 2
+   },
+   {
+    "title": "The Demon Prince of Momochi House: Succession, Vol. 1",
+    "author": "Aya Shouoto",
+    "year": 2025,
+    "why_vi": "Bạn yêu manga shojo kỳ ảo lãng mạn như Fruits Basket và D.N.Angel, và đây là phần tiếp nối mới về ngôi nhà ma quỷ và hoàng tử yêu quái.",
+    "related_history": [
+     "Fruits Basket, Vol. 1",
+     "D.N.Angel, Vol. 1 (D.N.Angel, #1)"
+    ],
+    "source_url": "https://www.risingshadow.net/searchlist/manga/2025",
+    "source_name": "Risingshadow",
+    "snippet": "The Demon Prince of Momochi House: Succession, Vol. 1 (Aya Shouoto), listed among romance-tagged fantasy manga; release July 1, 2025.",
+    "query_index": 2
+   }
+  ],
+  "dropped": [
+   "Silverborn (Jessica Townsend, Nevermoor #4): only in search summary, not tied to a specific result URL; not on the Reactor page when fetched.",
+   "Oathbound (Tracy Deonn) and Breath of the Dragon (Fonda Lee, Shannon Lee): named in search summary only, source URL not verifiable.",
+   "The Nico di Angelo Adventures Book 3 (Riordan, Mark Oshiro): release listed only as '2026 (upcoming)', details unconfirmed.",
+   "Percy Jackson and the Olympians Book 8: listed 2027, outside 2024-2026, date unverified.",
+   "Camp Half-Blood Book 2: title and year not confirmed in results.",
+   "Murtagh (Christopher Paolini): 2025 is only a paperback reprint of a 2023 novel.",
+   "The 31st Consort and Adored By an Elite Officer (manga): author not given in results.",
+   "Sunrise on the Reaping (Suzanne Collins) and Daughter of the Underworld (Corr sisters): verified on Kirkus, cut for weaker fit and variety.",
+   "Tamora Pierce: no new 2024-2026 book found in results.",
+   "Note: AJC result URL returned HTTP 404, so the Riordan pick cites the NY1 (AP) result instead; Kirkus, Reactor, Risingshadow and NY1 pages were fetched with WebFetch to check author/year."
+  ]
+ },
+ {
+  "reader_id": 1029,
+  "queries": [
+   {
+    "query": "best literary fiction 2025 novels list",
+    "purpose_vi": "Tìm các danh sách tiểu thuyết văn chương hay nhất năm 2025 hợp gu literary fiction của độc giả",
+    "results_used": 0
+   },
+   {
+    "query": "new Russian literature in translation 2025 novel",
+    "purpose_vi": "Tìm sách văn học Nga mới dịch sang tiếng Anh (2025-2026) cho người mê Dostoevsky, Nabokov, Turgenev",
+    "results_used": 2
+   },
+   {
+    "query": "best dystopian novels 2025",
+    "purpose_vi": "Tìm tiểu thuyết phản địa đàng mới năm 2025 cho người thích 1984, Brave New World",
+    "results_used": 1
+   },
+   {
+    "query": "Booker Prize 2025 shortlist",
+    "purpose_vi": "Lấy danh sách rút gọn giải Booker 2025, nguồn uy tín cho văn chương mới",
+    "results_used": 3
+   }
+  ],
+  "books": [
+   {
+    "title": "Flesh",
+    "author": "David Szalay",
+    "year": 2025,
+    "why_vi": "Tiểu thuyết đoạt Booker 2025 với giọng văn lạnh, tiết chế về một người đàn ông trôi dạt, hợp với độc giả chấm 5 sao cho chủ nghĩa hiện sinh của Camus.",
+    "related_history": [
+     "The Stranger",
+     "Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead"
+    ],
+    "source_url": "https://www.penguin.co.nz/articles/5078-booker-prize-shortlist-2025",
+    "source_name": "Penguin New Zealand",
+    "snippet": "Flesh by David Szalay wins the Booker Prize 2025",
+    "query_index": 3
+   },
+   {
+    "title": "The Book of Guilt",
+    "author": "Catherine Chidgey",
+    "year": 2025,
+    "why_vi": "Cuốn phản địa đàng được Kirkus chọn là hay nhất 2025, hợp với người đã chấm cao 1984 và Brave New World.",
+    "related_history": [
+     "1984",
+     "Brave New World"
+    ],
+    "source_url": "https://www.kirkusreviews.com/book-lists/best-dystopian-fiction-2025/",
+    "source_name": "Kirkus Reviews",
+    "snippet": "Kirkus's 2025 best-of list highlights Catherine Chidgey's The Book of Guilt, which reviewers praised for its prose and ideas.",
+    "query_index": 2
+   },
+   {
+    "title": "The Sugar Kremlin",
+    "author": "Vladimir Sorokin",
+    "year": 2025,
+    "why_vi": "Tác phẩm châm biếm phản địa đàng về nước Nga của Sorokin, nối hai sở thích lớn của độc giả: văn học Nga và dystopia kinh điển.",
+    "related_history": [
+     "Heart of a Dog",
+     "1984"
+    ],
+    "source_url": "https://dalkeyarchive.store/products/sugar-kremlin",
+    "source_name": "Dalkey Archive Press",
+    "snippet": "By Vladimir Sorokin, translated by Max Lawton. Publication date: 09/30/2025 (bản dịch tiếng Anh; bản gốc tiếng Nga ra trước đó).",
+    "query_index": 1,
+    "fix_note": "Trang nguồn agent dùng chặn truy cập (HTTP 403); đã thay bằng trang của nhà xuất bản."
+   },
+   {
+    "title": "(Th)ings and (Th)oughts",
+    "author": "Alla Gorbunova",
+    "year": 2025,
+    "why_vi": "Tập truyện ngắn Nga đương đại mới dịch, phù hợp với người đã đọc truyện ngắn của Gogol và Chekhov.",
+    "related_history": [
+     "The Overcoat",
+     "Selected Stories of Anton Chekhov"
+    ],
+    "source_url": "https://www.kirkusreviews.com/book-reviews/alla-gorbunova/things-and-thoughts/",
+    "source_name": "Kirkus Reviews",
+    "snippet": "by Alla Gorbunova ; translated by Elina Alter. RELEASE DATE: Nov. 4, 2025 (Deep Vellum, short story collection).",
+    "query_index": 1
+   },
+   {
+    "title": "Audition",
+    "author": "Katie Kitamura",
+    "year": 2025,
+    "why_vi": "Tiểu thuyết văn chương lọt danh sách rút gọn Booker 2025 với cấu trúc chơi đùa ranh giới thực tại, hợp với người mê Nabokov.",
+    "related_history": [
+     "Invitation to a Beheading",
+     "Pnin"
+    ],
+    "source_url": "https://lithub.com/heres-the-2025-booker-prize-shortlist/",
+    "source_name": "Literary Hub",
+    "snippet": "The 2025 Booker Prize shortlist has six novels, announced on 23 September 2025, including Audition by Katie Kitamura.",
+    "query_index": 3
+   },
+   {
+    "title": "The Land in Winter",
+    "author": "Andrew Miller",
+    "year": 2024,
+    "why_vi": "Tiểu thuyết lịch sử về hôn nhân và khủng hoảng gia đình trong danh sách rút gọn Booker 2025, hợp với người đã chấm 4 sao Anna Karenina.",
+    "related_history": [
+     "Anna Karenina",
+     "War and Peace"
+    ],
+    "source_url": "https://lithub.com/heres-the-2025-booker-prize-shortlist/",
+    "source_name": "Literary Hub",
+    "snippet": "Andrew Miller, The Land in Winter, nằm trong danh sách rút gọn Booker Prize 2025.",
+    "query_index": 3,
+    "fix_note": "Trang nguồn agent dùng chặn truy cập (HTTP 403) và năm sai: sách ra 2024, bản bìa mềm 2025; đã thay nguồn và sửa năm."
+   }
+  ],
+  "dropped": [
+   "Steppe (Catapult, 2026, transl. Elina Alter): results did not name the original author, so I could not verify it.",
+   "The Disappearing Act (Maria Stepanova): the review result did not state the publication year.",
+   "The Cartographers (Elena Ferrante): only the search summary mentioned it, with no attributable URL, so I could not verify it.",
+   "James (Percival Everett, 2025 Pulitzer): no specific result URL could be tied to it.",
+   "The True True Story of Raja the Gullible (Rabih Alameddine): no attributable URL, and it fits this reader less well.",
+   "My Dreadful Body (Egana Djabbarova, 2026): weaker fit than the other Russian picks, so I left it out for variety.",
+   "The Dividing Sky, Bound by Stars, Coldwire: YA or romance dystopias that do not match this reader's classic, literary taste.",
+   "Outlawed (Anna North): published 2021, outside the 2024-2026 range.",
+   "The Taking of Izmail (Mikhail Shishkin): English edition not due until 2028, outside the range.",
+   "The 2025 National Book Award and PEN/Faulkner claims: not checked against official sources."
+  ]
+ },
+ {
+  "reader_id": 496,
+  "queries": [
+   {
+    "query": "new J.D. Robb In Death book 2025 2026 release",
+    "purpose_vi": "Tìm các tập In Death mới nhất (2025-2026) vì độc giả chấm 5 sao rất nhiều tập của loạt này.",
+    "results_used": 2
+   },
+   {
+    "query": "Nora Roberts new novel 2025 2026",
+    "purpose_vi": "Tìm sách mới 2025-2026 của Nora Roberts, tác giả độc giả đọc nhiều nhất.",
+    "results_used": 3
+   },
+   {
+    "query": "best paranormal romance books of 2025",
+    "purpose_vi": "Tìm danh sách paranormal romance/ma cà rồng 2025 hợp gu Twilight và Fever.",
+    "results_used": 1
+   },
+   {
+    "query": "best romantic suspense books 2025 list",
+    "purpose_vi": "Tìm danh sách romantic suspense 2025 ngoài Nora Roberts/J.D. Robb để đa dạng gợi ý.",
+    "results_used": 0
+   }
+  ],
+  "books": [
+   {
+    "title": "Stolen in Death (In Death #62)",
+    "author": "J.D. Robb",
+    "year": 2026,
+    "why_vi": "Tập mới năm 2026 của loạt In Death mà bạn đã chấm 5 sao hàng chục cuốn, tiếp tục các vụ án của Eve Dallas và Roarke.",
+    "related_history": [
+     "Salvation in Death (In Death, #27)",
+     "Concealed in Death (In Death, #38)"
+    ],
+    "source_url": "https://www.kirkusreviews.com/audiobook-reviews/jd-robb/stolen-in-death/",
+    "source_name": "Kirkus Reviews",
+    "snippet": "Stolen in Death by J.D. Robb; read by Susan Ericksen. RELEASE DATE: Feb. 3, 2026.",
+    "query_index": 0
+   },
+   {
+    "title": "Fury in Death (In Death #63)",
+    "author": "J.D. Robb",
+    "year": 2026,
+    "why_vi": "Cuốn In Death mới nhất (9/2026), đúng chất romantic suspense tương lai mà bạn đã đọc gần như trọn bộ.",
+    "related_history": [
+     "Calculated in Death (In Death, #36)",
+     "Thankless in Death (In Death, #37)"
+    ],
+    "source_url": "https://www.risingshadow.net/book/79424-fury-in-death",
+    "source_name": "Rising Shadow",
+    "snippet": "Fury in Death, In Death #63, J.D. Robb, September 8, 2026.",
+    "query_index": 0,
+    "fix_note": "Trang nguồn agent dùng chặn truy cập (HTTP 403); đã thay bằng trang Rising Shadow."
+   },
+   {
+    "title": "Birth of the Witch (Coven of Three Trilogy #1)",
+    "author": "Nora Roberts",
+    "year": 2026,
+    "why_vi": "Bộ ba phù thủy mới của Nora Roberts (ra 17/11/2026), cùng mạch phép thuật và lãng mạn như Three Sisters Island mà bạn chấm 5 sao.",
+    "related_history": [
+     "Dance Upon the Air (Three Sisters Island, #1)",
+     "Heaven and Earth (Three Sisters Island, #2)"
+    ],
+    "source_url": "https://www.bookishelf.com/birth-of-the-witch-by-nora-roberts/",
+    "source_name": "Bookishelf",
+    "snippet": "First book of the Coven of Three Trilogy; hardcover from St. Martin's Press, 432 pages, publishing 17 November 2026.",
+    "query_index": 1
+   },
+   {
+    "title": "The Final Target",
+    "author": "Nora Roberts",
+    "year": 2026,
+    "why_vi": "Thriller lãng mạn độc lập năm 2026 của Nora Roberts, cùng kiểu hồi hộp như High Noon và The Witness mà bạn đánh giá cao.",
+    "related_history": [
+     "High Noon",
+     "The Witness"
+    ],
+    "source_url": "https://newbooksalert.com/book/the-final-target",
+    "source_name": "New Books Alert",
+    "snippet": "Released May 26, 2026: a thriller about a fan whose obsession turns violent toward a young author.",
+    "query_index": 1
+   },
+   {
+    "title": "Hidden Nature",
+    "author": "Nora Roberts",
+    "year": 2025,
+    "why_vi": "Romantic suspense về một cảnh sát bị thương truy lùng kẻ giết người hàng loạt, hợp với các tiểu thuyết hồi hộp độc lập của Nora Roberts mà bạn thích.",
+    "related_history": [
+     "Black Hills",
+     "The Search"
+    ],
+    "source_url": "https://www.booksamillion.com/product/9781250370853",
+    "source_name": "Books-A-Million",
+    "snippet": "Hidden Nature by Nora Roberts. St. Martin's Press, Hardcover, publish date May 2025.",
+    "query_index": 1,
+    "fix_note": "Năm sai: sách ra tháng 5/2025, ngày 4/6/2026 là bản bìa mềm ở Anh; đã sửa năm và thay nguồn."
+   },
+   {
+    "title": "House of Demons and Bones",
+    "author": "Meg Xuemei X",
+    "year": 2025,
+    "why_vi": "Romance ma cà rồng năm 2025, gợi lại chất paranormal của bộ Twilight mà bạn chấm 5 sao tất cả các tập.",
+    "related_history": [
+     "Twilight (The Twilight Saga, #1)",
+     "Eclipse (The Twilight Saga, #3)"
+    ],
+    "source_url": "https://www.risingshadow.net/searchlist/vampires/2025",
+    "source_name": "Rising Shadow",
+    "snippet": "Danh sách \"Most Popular Vampires Books of 2025\" có House of Demons and Bones (Shades of Ruin and Magic #5) của Meg Xuemei X, ra ngày 9/3/2025.",
+    "query_index": 2,
+    "fix_note": "Snippet trích lệch tiêu đề danh sách; đã sửa theo trang."
+   }
+  ],
+  "dropped": [
+   "Framed in Death (In Death #61): listings give conflicting dates (13 Jan vs 7 Apr 2026), and adding a third In Death book would cut variety.",
+   "Perfect in Death (In Death #64): publishes 2 Feb 2027, outside the 2024-2026 range.",
+   "The Witness (Nora Roberts, 2026 paperback): the reader already rated it.",
+   "The Missing (Nora Roberts): dated May 2027, outside the range.",
+   "Shadowed Vows and Beneath the Witching Moon (Nora Roberts): reissues of old series, with dates from a single aggregator that were not confirmed.",
+   "Taken (Kat Kinney, Blood Moon Texas Shifters #7): a shifter series from book 7, so it fits the reader less than the vampire pick.",
+   "Rising Shadow 2025 picks such as Thankful for My Orc, Dream by the Shadows and Realm of Magic and Shadow: monster, alien or romantasy titles that do not match this reader's taste.",
+   "The Blonde Identity (Ally Carter) and Breathe (Kristen Ashley): the results do not show a 2024-2026 publication year.",
+   "Query 4 (romantic suspense 2025) returned only general romance lists or all-time lists with no verifiable 2024-2026 romantic suspense title, so no pick came from it."
+  ]
+ }
+]

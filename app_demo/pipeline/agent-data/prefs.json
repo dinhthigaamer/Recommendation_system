@@ -1,0 +1,371 @@
+[
+ {
+  "reader_id": 2043,
+  "domain_vi": "Fantasy thiếu nhi, YA và manga",
+  "summary_vi": "Độc giả rất mê fantasy dành cho tuổi teen và thiếu nhi theo bộ, như Percy Jackson, Harry Potter và các series của Tamora Pierce, với nhiều phép thuật, thần thoại và phiêu lưu. Ngoài ra, độc giả còn thích manga shojo (Fruits Basket, Vampire Knight) nhưng ít hứng thú với kinh điển kịch, phi hư cấu và truyện ngắn.",
+  "genres": [
+   {
+    "name": "Fantasy",
+    "weight": 0.92,
+    "evidence": [
+     "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+     "Eragon (The Inheritance Cycle #1)",
+     "Inkspell (Inkworld, #2)"
+    ]
+   },
+   {
+    "name": "Young Adult",
+    "weight": 0.89,
+    "evidence": [
+     "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+     "Twilight (The Twilight Saga, #1)",
+     "An Abundance of Katherines"
+    ]
+   },
+   {
+    "name": "Magic",
+    "weight": 0.37,
+    "evidence": [
+     "Wild Magic (Immortals, #1)",
+     "Magyk (Septimus Heap, #1)",
+     "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)"
+    ]
+   },
+   {
+    "name": "Middle Grade",
+    "weight": 0.32,
+    "evidence": [
+     "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+     "Dragon Rider (Dragon Rider, #1)",
+     "The Vile Village (A Series of Unfortunate Events, #7)"
+    ]
+   },
+   {
+    "name": "Adventure",
+    "weight": 0.3,
+    "evidence": [
+     "Peter and the Starcatchers (Peter and the Starcatchers, #1)",
+     "First Test (Protector of the Small, #1)",
+     "The Sea of Trolls (Sea of Trolls, #1)"
+    ]
+   },
+   {
+    "name": "Manga",
+    "weight": 0.16,
+    "evidence": [
+     "Fruits Basket, Vol. 1",
+     "Vampire Knight, Vol. 1 (Vampire Knight, #1)",
+     "Cardcaptor Sakura, Vol. 1 (Cardcaptor Sakura, #1)"
+    ]
+   }
+  ],
+  "authors": [
+   {
+    "name": "Rick Riordan",
+    "evidence": [
+     "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+     "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+     "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)"
+    ]
+   },
+   {
+    "name": "Tamora Pierce",
+    "evidence": [
+     "Wild Magic (Immortals, #1)",
+     "Lady Knight (Protector of the Small, #4)",
+     "Trickster's Choice (Daughter of the Lioness, #1)"
+    ]
+   },
+   {
+    "name": "J.K. Rowling",
+    "evidence": [
+     "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+     "Harry Potter and the Deathly Hallows (Harry Potter, #7)"
+    ]
+   },
+   {
+    "name": "Natsuki Takaya",
+    "evidence": [
+     "Fruits Basket, Vol. 1",
+     "Fruits Basket, Vol. 3"
+    ]
+   }
+  ],
+  "themes": [
+   "magic",
+   "greek-mythology",
+   "vampires",
+   "dragons",
+   "shojo",
+   "strong-female-lead"
+  ],
+  "avoid": [
+   {
+    "name": "Nonfiction",
+    "evidence": [
+     "The Prince"
+    ]
+   },
+   {
+    "name": "Plays",
+    "evidence": [
+     "Romeo and Juliet"
+    ]
+   },
+   {
+    "name": "Short Stories",
+    "evidence": [
+     "The Illustrated Man"
+    ]
+   }
+  ]
+ },
+ {
+  "reader_id": 1029,
+  "domain_vi": "Kinh điển Nga và hiện sinh",
+  "summary_vi": "Độc giả say mê văn học kinh điển Nga (Dostoevsky, Tolstoy, Nabokov) và tiểu thuyết hiện sinh của Camus, đồng thời yêu thích khoa học viễn tưởng phản địa đàng, châm biếm như Vonnegut, Orwell. Ít hứng thú với truyện thiếu nhi và giả tưởng sử thi như Narnia hay Chúa tể những chiếc nhẫn.",
+  "genres": [
+   {
+    "name": "Classics",
+    "weight": 0.92,
+    "evidence": [
+     "Crime and Punishment",
+     "The Stranger",
+     "1984"
+    ]
+   },
+   {
+    "name": "Russian Literature",
+    "weight": 0.33,
+    "evidence": [
+     "The Brothers Karamazov",
+     "Fathers and Sons",
+     "Pnin"
+    ]
+   },
+   {
+    "name": "Science Fiction",
+    "weight": 0.27,
+    "evidence": [
+     "Slaughterhouse-Five",
+     "The Sirens of Titan",
+     "Roadside Picnic"
+    ]
+   },
+   {
+    "name": "Philosophy",
+    "weight": 0.2,
+    "evidence": [
+     "The Death of Ivan Ilych",
+     "The Stranger",
+     "The Myth of Sisyphus, and Other Essays"
+    ]
+   },
+   {
+    "name": "Dystopia",
+    "weight": 0.16,
+    "evidence": [
+     "1984",
+     "Brave New World",
+     "The Road"
+    ]
+   },
+   {
+    "name": "Humor",
+    "weight": 0.14,
+    "evidence": [
+     "Cat’s Cradle",
+     "Catch-22",
+     "The Twelve Chairs"
+    ]
+   }
+  ],
+  "authors": [
+   {
+    "name": "Fyodor Dostoevsky",
+    "evidence": [
+     "The Brothers Karamazov",
+     "Demons",
+     "Crime and Punishment",
+     "The Idiot"
+    ]
+   },
+   {
+    "name": "Kurt Vonnegut Jr.",
+    "evidence": [
+     "The Sirens of Titan",
+     "Cat’s Cradle",
+     "Slaughterhouse-Five"
+    ]
+   },
+   {
+    "name": "Leo Tolstoy",
+    "evidence": [
+     "The Death of Ivan Ilych",
+     "Anna Karenina",
+     "War and Peace"
+    ]
+   },
+   {
+    "name": "Albert Camus",
+    "evidence": [
+     "The Stranger",
+     "The Myth of Sisyphus, and Other Essays",
+     "The Plague"
+    ]
+   }
+  ],
+  "themes": [
+   "russian-literature",
+   "existentialism",
+   "dystopia",
+   "satire",
+   "anti-war",
+   "philosophical-fiction"
+  ],
+  "avoid": [
+   {
+    "name": "Childrens",
+    "evidence": [
+     "The Horse and His Boy (Chronicles of Narnia, #5)",
+     "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+     "Alice’s Adventures in Wonderland / Through the Looking-Glass"
+    ]
+   },
+   {
+    "name": "High Fantasy",
+    "evidence": [
+     "The Two Towers (The Lord of the Rings, #2)",
+     "The Return of the King (The Lord of the Rings, #3)"
+    ]
+   },
+   {
+    "name": "Africa",
+    "evidence": [
+     "Heart of Darkness",
+     "Out of Africa",
+     "The Poisonwood Bible"
+    ]
+   }
+  ]
+ },
+ {
+  "reader_id": 496,
+  "domain_vi": "Tiểu thuyết lãng mạn và trinh thám",
+  "summary_vi": "Độc giả này đọc gần như chỉ tiểu thuyết lãng mạn, đặc biệt mê loạt trinh thám lãng mạn In Death của J.D. Robb, các series huyền bí Highlander và Fever của Karen Marie Moning cùng nhiều sách của Nora Roberts. Họ chấm điểm thấp hơn cho dòng sách khiêu dâm (Fifty Shades) và các bộ ba phép thuật phù thủy gần đây của Nora Roberts.",
+  "genres": [
+   {
+    "name": "Romance",
+    "weight": 1,
+    "evidence": [
+     "Twilight (The Twilight Saga, #1)",
+     "Bet Me",
+     "Vision in White (Bride Quartet, #1)"
+    ]
+   },
+   {
+    "name": "Mystery",
+    "weight": 0.44,
+    "evidence": [
+     "Naked in Death (In Death, #1)",
+     "Witness in Death (In Death, #10)",
+     "The Villa"
+    ]
+   },
+   {
+    "name": "Romantic Suspense",
+    "weight": 0.41,
+    "evidence": [
+     "High Noon",
+     "Purity in Death (In Death, #15)",
+     "Blue Smoke"
+    ]
+   },
+   {
+    "name": "Crime",
+    "weight": 0.33,
+    "evidence": [
+     "Creation in Death (In Death, #25)",
+     "Salvation in Death (In Death, #27)",
+     "Kindred in Death (In Death, #29)"
+    ]
+   },
+   {
+    "name": "Contemporary Romance",
+    "weight": 0.33,
+    "evidence": [
+     "Anyone But You",
+     "This Heart of Mine (Chicago Stars, #5)",
+     "Rising Tides (Chesapeake Bay Saga, #2)"
+    ]
+   },
+   {
+    "name": "Paranormal Romance",
+    "weight": 0.24,
+    "evidence": [
+     "Darkfever (Fever, #1)",
+     "Kiss of the Highlander (Highlander, #4)",
+     "Dance Upon the Air (Three Sisters Island, #1)"
+    ]
+   }
+  ],
+  "authors": [
+   {
+    "name": "J.D. Robb",
+    "evidence": [
+     "Naked in Death (In Death, #1)",
+     "Purity in Death (In Death, #15)",
+     "Promises in Death (In Death, #28)"
+    ]
+   },
+   {
+    "name": "Karen Marie Moning",
+    "evidence": [
+     "Darkfever (Fever, #1)",
+     "Shadowfever (Fever, #5)",
+     "Beyond the Highland Mist (Highlander, #1)"
+    ]
+   },
+   {
+    "name": "Nora Roberts",
+    "evidence": [
+     "Vision in White (Bride Quartet, #1)",
+     "Born in Fire (Born In Trilogy, #1)",
+     "Face the Fire (Three Sisters Island, #3)"
+    ]
+   },
+   {
+    "name": "Stephenie Meyer",
+    "evidence": [
+     "Twilight (The Twilight Saga, #1)",
+     "New Moon (The Twilight Saga, #2)",
+     "Breaking Dawn (The Twilight Saga, #4)"
+    ]
+   }
+  ],
+  "themes": [
+   "romantic-suspense",
+   "futuristic",
+   "time-travel",
+   "vampires",
+   "fae",
+   "series"
+  ],
+  "avoid": [
+   {
+    "name": "Erotica",
+    "evidence": [
+     "Fifty Shades Darker (Fifty Shades, #2)",
+     "Fifty Shades Freed (Fifty Shades, #3)"
+    ]
+   },
+   {
+    "name": "Magic",
+    "evidence": [
+     "Blood Magick (The Cousins O'Dwyer Trilogy, #3)",
+     "Shadow Spell (The Cousins O'Dwyer Trilogy, #2)"
+    ]
+   }
+  ]
+ }
+]
