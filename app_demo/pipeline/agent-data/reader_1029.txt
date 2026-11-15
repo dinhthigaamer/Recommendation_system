@@ -1,0 +1,102 @@
+Reader #1029 (101 ratings, mean 3.60). Format: rating | title | authors | genres
+5 | The Stranger | Albert Camus, Matthew  Ward | Classics, Fiction, Philosophy, France, Literature, Novels
+5 | One Flew Over the Cuckoo’s Nest | Ken Kesey | Classics, Fiction, Psychology, Literature, Novels, Mental Health
+5 | The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | Classics, Fiction, Russia, Philosophy, Russian Literature, Literature
+5 | Crime and Punishment | Fyodor Dostoevsky, David McDuff, Joseph Frank, Fyodor Dostoyevsky | Classics, Fiction, Russia, Russian Literature, Literature, Philosophy
+5 | Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead | Fyodor Dostoevsky, Andrew R. MacAndrew, Ben Marcus | Classics, Fiction, Russia, Philosophy, Russian Literature, Literature
+5 | Demons | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | Classics, Fiction, Russia, Russian Literature, Literature, Philosophy
+5 | Slaughterhouse-Five | Kurt Vonnegut Jr. | Classics, Fiction, Science Fiction, Historical Fiction, War, Literature
+5 | Cat’s Cradle | Kurt Vonnegut Jr. | Fiction, Classics, Science Fiction, Humor, Literature, Novels
+5 | The Sirens of Titan | Kurt Vonnegut Jr., Chris     Moore | Fiction, Science Fiction, Classics, Humor, Fantasy, Literature
+5 | The Catcher in the Rye | J.D. Salinger | Classics, Fiction, Young Adult, Literature, School, Coming Of Age
+5 | We | Yevgeny Zamyatin, Clarence Brown | (no genres crawled)
+5 | Invitation to a Beheading | Vladimir Nabokov, Dmitri Nabokov | Fiction, Classics, Russia, Russian Literature, Literature, Novels
+5 | The Death of Ivan Ilych | Leo Tolstoy, Aylmer Maude, Louise Maude | Classics, Fiction, Russia, Russian Literature, Philosophy, Literature
+5 | Fathers and Sons | Ivan Turgenev, Jane Costlow, George Reavy | Classics, Fiction, Russia, Russian Literature, Literature, 19th Century
+5 | Hiroshima | John Hersey | History, Nonfiction, War, Japan, Classics, World War II
+5 | 1984 | George Orwell | Classics, Fiction, Science Fiction, Dystopia, Literature, Politics
+5 | Catch-22 | Joseph Heller | Classics, Fiction, Historical Fiction, War, Humor, Literature
+5 | The Road | Cormac McCarthy | Fiction, Science Fiction, Dystopia, Classics, Horror, Post Apocalyptic
+5 | The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5) | Douglas Adams | Science Fiction, Fiction, Humor, Fantasy, Classics, Comedy
+5 | Infinite Jest | David Foster Wallace | Fiction, Classics, Literature, Novels, Contemporary, Literary Fiction
+5 | Kurt Vonnegut's Cat's Cradle | Harold Bloom, Terry Southern, David H. Goldsmith, James Lundquist, Lawrence R. Broer, Peter J. Reed, Loree Rackstraw, William S. Doxey, Jerome Klinkowitz, Richard Giannone, John L. Simons, Leonard Mustazza, Zoltan Ab di-Nagy, Peter Freese, Wendy B. Faris | Fiction, Science Fiction, Classics, Literature, Novels, Humor
+5 | The Overcoat | Nikolai Gogol | Classics, Fiction, Short Stories, Russia, Russian Literature, Literature
+5 | Pnin | Vladimir Nabokov, David Lodge | Fiction, Classics, Russia, Russian Literature, Literature, Novels
+4 | Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991 | Michael Azerrad | Music, Nonfiction, History, Biography, Punk, Pop Culture
+4 | A Heartbreaking Work of Staggering Genius | Dave Eggers | Fiction, Contemporary, Book Club, Literature, Humor, Biography Memoir
+4 | Junky | William S. Burroughs, Oliver  Harris, Allen Ginsberg | Fiction, Classics, Drugs, Literature, Novels, American
+4 | Neverwhere (London Below, #1) | Neil Gaiman | Fantasy, Fiction, Urban Fantasy, Audiobook, Science Fiction Fantasy, Horror
+4 | Anansi Boys | Neil Gaiman | Fantasy, Fiction, Urban Fantasy, Mythology, Audiobook, Science Fiction Fantasy
+4 | The Plague | Albert Camus, Stuart Gilbert | Classics, Fiction, Philosophy, France, Literature, French Literature
+4 | War and Peace | Leo Tolstoy, Aylmer Maude, Louise Maude | Classics, Fiction, Historical Fiction, Russia, Russian Literature, Literature
+4 | The Master and Margarita | Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer | (no genres crawled)
+4 | Heart of a Dog | Mikhail Bulgakov, Mirra Ginsburg, Михаил Булгаков, Michail Bulgakov | Classics, Fiction, Russia, Russian Literature, Science Fiction, Literature
+4 | Notes from a Small Island | Bill Bryson | (no genres crawled)
+4 | The Metamorphosis | Franz Kafka, Stanley Corngold | Classics, Fiction, Philosophy, Fantasy, Short Stories, Literature
+4 | A Clockwork Orange | Anthony Burgess | Classics, Fiction, Science Fiction, Dystopia, Horror, Literature
+4 | All Quiet on the Western Front | Erich Maria Remarque, Arthur Wesley Wheen | Classics, Fiction, Historical Fiction, War, Historical, Literature
+4 | A Hero of Our Time | Mikhail Lermontov, Paul Foote | (no genres crawled)
+4 | The Bell Jar | Sylvia Plath | Classics, Fiction, Feminism, Mental Health, Literary Fiction, Psychology
+4 | Lord of the Flies | William Golding | Classics, Fiction, Young Adult, School, Dystopia, Literature
+4 | Frankenstein | Mary Wollstonecraft Shelley | Classics, Horror, Fiction, Science Fiction, Gothic, Fantasy
+4 | Brave New World | Aldous Huxley | Classics, Fiction, Science Fiction, Dystopia, Literature, Novels
+4 | Fahrenheit 451 | Ray Bradbury | Classics, Fiction, Science Fiction, Dystopia, School, Literature
+4 | The Hobbit, or There and Back Again | J.R.R. Tolkien, Douglas A. Anderson, Michael Hague, Jemima Catlin | Fantasy, Classics, Fiction, Adventure, Young Adult, Audiobook
+4 | Macbeth | William Shakespeare, Barbara A. Mowat, Paul Werstine | Classics, Plays, Fiction, Shakespeare, School, Drama
+4 | Anna Karenina | Leo Tolstoy, Aylmer Maude, Louise Maude, Dieter Wellershoff, Bruno Goetz, Lev Tolstoj | Classics, Fiction, Romance, Russia, Historical Fiction, Russian Literature
+4 | The Crucible | Arthur Miller, Christopher W.E. Bigsby | Classics, Plays, Fiction, Historical Fiction, School, Drama
+4 | Death of a Salesman | Arthur Miller | Classics, Plays, Fiction, Drama, School, Theatre
+4 | Night | Elie Wiesel, Marion Wiesel, François Mauriac | Nonfiction, Classics, History, Memoir, School, Holocaust
+4 | The Giver (Giver, #1) | Lois Lowry | Fiction, Classics, Young Adult, Dystopia, Science Fiction, Fantasy
+4 | The Idiot | Fyodor Dostoevsky, Anna Brailovsky, Joseph Frank, Constance Garnett | Classics, Fiction, Russia, Russian Literature, Literature, Philosophy
+4 | The Myth of Sisyphus, and Other Essays | Albert Camus, Justin O'Brien | Philosophy, Nonfiction, Classics, Essays, France, Literature
+4 | One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn, Ronald Hingley, H.T. Willetts, Leopold Labedz, Max Hayward | Fiction, Classics, Russia, Historical Fiction, Russian Literature, Literature
+4 | Roadside Picnic | Arkady Strugatsky, Boris Strugatsky, Theodore Sturgeon, Antonina W. Bouis | Science Fiction, Fiction, Classics, Russia, Dystopia, Russian Literature
+4 | Oblomov | Ivan Goncharov, Galya Diment, Stephen Pearl | Classics, Fiction, Russia, Russian Literature, Literature, 19th Century
+4 | The Twelve Chairs | Ilya Ilf, Yevgeny Petrov, Maurice Friedberg, John H.C. Richardson, Илья Ильф, Евгений Петров | Fiction, Russia, Classics, Russian Literature, Humor, Literature
+3 | The Electric Kool-Aid Acid Test | Tom Wolfe | Nonfiction, History, Classics, Biography, Journalism, Drugs
+3 | The Dharma Bums | Jack Kerouac | Fiction, Classics, Literature, Novels, Travel, Philosophy
+3 | The Rum Diary | Hunter S. Thompson | Fiction, Classics, Novels, Literature, Journalism, American
+3 | Anthem | Ayn Rand, Leonard Peikoff | Fiction, Classics, Dystopia, Philosophy, Science Fiction, School
+3 | The Fountainhead | Ayn Rand, Leonard Peikoff | Fiction, Classics, Philosophy, Literature, Novels, Politics
+3 | Atlas Shrugged | Ayn Rand, Leonard Peikoff | Fiction, Classics, Philosophy, Politics, Literature, Science Fiction
+3 | House of Leaves | Mark Z. Danielewski | (no genres crawled)
+3 | White Nights | Fyodor Dostoevsky, Olga Shartse | Classics, Fiction, Romance, Russian Literature, Short Stories, Russia
+3 | Lolita | Vladimir Nabokov, Craig Raine | Classics, Fiction, Literature, Russia, Novels, Romance
+3 | The Grapes of Wrath | John Steinbeck | Classics, Fiction, Historical Fiction, Literature, Novels, School
+3 | Selected Stories of Anton Chekhov | Anton Chekhov, Richard Pevear, Larissa Volokhonsky | Short Stories, Classics, Fiction, Russia, Russian Literature, Literature
+3 | The Kreutzer Sonata | Leo Tolstoy, Doris Lessing, Isai Kamen | Classics, Fiction, Russia, Russian Literature, Literature, Short Stories
+3 | To Kill a Mockingbird | Harper Lee | Classics, Fiction, Historical Fiction, School, Literature, Young Adult
+3 | The Adventures of Huckleberry Finn | Mark Twain, John Seelye, Guy Cardwell | (no genres crawled)
+3 | The Scarlet Letter | Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym | (no genres crawled)
+3 | Hamlet | William Shakespeare, Harold Bloom, Rex Gibson, Israel Gollancz, Henry Norman Hudson, L.A. Sherman, Max J. Herzberg | Classics, Plays, Fiction, Shakespeare, Drama, School
+3 | The Diary of a Young Girl | Anne Frank, Eleanor Roosevelt, Susan Massotty, Γιάννης Θωμόπουλος, Barbara Mooyaart-Doubleday, Otto H. Frank, Mirjam Pressler | Classics, Nonfiction, History, Biography, Memoir, Historical
+3 | Alice’s Adventures in Wonderland / Through the Looking-Glass | Lewis Carroll, Martin Gardner, John Tenniel | Classics, Fantasy, Fiction, Childrens, Young Adult, Literature
+3 | The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1) | C.S. Lewis, Tormod Haugen, Per Svein Paulsen | Fantasy, Classics, Fiction, Young Adult, Childrens, Middle Grade
+3 | The Two Towers (The Lord of the Rings, #2) | J.R.R. Tolkien, Peter S. Beagle | Fantasy, Classics, Fiction, Adventure, Audiobook, High Fantasy
+3 | The Return of the King (The Lord of the Rings, #3) | J.R.R. Tolkien | Fantasy, Fiction, Classics, Adventure, Audiobook, High Fantasy
+3 | The Call of the Wild | Jack London, Avi | Classics, Fiction, Adventure, Young Adult, Animals, Historical Fiction
+3 | The Pearl | John Steinbeck | Classics, Fiction, Literature, School, Historical Fiction, American
+3 | A Separate Peace | John Knowles | (no genres crawled)
+3 | The Outsiders | S.E. Hinton | Classics, Young Adult, Fiction, School, Read For School, Coming Of Age
+3 | The Tell-Tale Heart and Other Writings | Edgar Allan Poe | Classics, Horror, Fiction, Short Stories, Poetry, Gothic
+3 | The Horse and His Boy (Chronicles of Narnia, #5) | C.S. Lewis | Fantasy, Classics, Fiction, Young Adult, Childrens, Christian
+3 | The Kite Runner | Khaled Hosseini | Fiction, Historical Fiction, Classics, Contemporary, Book Club, Historical
+3 | The Crying of Lot 49 | Thomas Pynchon | Fiction, Classics, Literature, Novels, American, Mystery
+3 | The Poisonwood Bible | Barbara Kingsolver | Fiction, Historical Fiction, Africa, Book Club, Classics, Literary Fiction
+3 | The Bluest Eye | Toni Morrison | Fiction, Classics, Historical Fiction, Banned Books, Book Club, Race
+3 | Dead Souls | Nikolai Gogol, Robert A. Maguire | (no genres crawled)
+2 | The Book of Joe | Jonathan Tropper | Fiction, Book Club, Humor, Contemporary, Adult Fiction, Novels
+2 | The Fall | Albert Camus, Justin O'Brien | Fiction, Philosophy, Classics, France, Literature, French Literature
+2 | I Am Legend and Other Stories | Richard Matheson | Horror, Fiction, Science Fiction, Vampires, Short Stories, Fantasy
+2 | The Great Gatsby | F. Scott Fitzgerald | Classics, Fiction, School, Historical Fiction, Romance, Literature
+2 | Wuthering Heights | Emily Brontë, Richard J. Dunn | (no genres crawled)
+2 | Heart of Darkness | Joseph Conrad | Classics, Fiction, Literature, Historical Fiction, Africa, School
+2 | On the Road | Jack Kerouac | (no genres crawled)
+2 | Flowers for Algernon | Daniel Keyes | Fiction, Classics, Science Fiction, Young Adult, Psychology, Literature
+2 | Oedipus Rex  (The Theban Plays, #1) | Sophocles, J.E. Thomas | (no genres crawled)
+2 | A Room of One’s Own | Virginia Woolf | Classics, Nonfiction, Feminism, Essays, Philosophy, Writing
+2 | Out of Africa | Isak Dinesen, Karen Blixen | Nonfiction, Classics, Africa, Memoir, Biography, Travel
+1 | Of Mice and Men | John Steinbeck | Classics, Fiction, School, Historical Fiction, Literature, Read For School
+1 | Siddhartha | Hermann Hesse, Hilda Rosner | Classics, Fiction, Philosophy, Spirituality, Religion, Literature
+1 | To the Lighthouse | Virginia Woolf, Eudora Welty | Classics, Fiction, Literature, Novels, Literary Fiction, Feminism

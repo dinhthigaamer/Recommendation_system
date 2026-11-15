@@ -1,0 +1,200 @@
+Fiction	7157
+Fantasy	3140
+Romance	2682
+Audiobook	2678
+Young Adult	2149
+Mystery	1965
+Contemporary	1780
+Classics	1727
+Nonfiction	1536
+Historical Fiction	1419
+Thriller	1403
+Book Club	1213
+Crime	991
+Science Fiction	984
+Childrens	935
+Paranormal	932
+Adventure	909
+Historical	902
+Mystery Thriller	881
+Suspense	856
+Humor	811
+Literature	783
+Novels	751
+Adult	718
+Horror	674
+Chick Lit	667
+Biography	629
+Middle Grade	604
+Contemporary Romance	543
+Magic	530
+Science Fiction Fantasy	526
+Memoir	521
+History	508
+Urban Fantasy	505
+Literary Fiction	475
+Vampires	434
+Graphic Novels	429
+Paranormal Romance	397
+Philosophy	387
+Comics	377
+High Fantasy	364
+Short Stories	364
+Dystopia	353
+Self Help	335
+Realistic Fiction	328
+Psychology	326
+New Adult	307
+Picture Books	298
+Epic Fantasy	293
+Animals	281
+Religion	278
+Supernatural	264
+Adult Fiction	259
+Biography Memoir	235
+Christian	233
+Science	230
+War	225
+Graphic Novels Comics	221
+Business	216
+Comedy	214
+Drama	205
+Politics	201
+School	200
+American	188
+Poetry	185
+Erotica	175
+Personal Development	173
+Spirituality	165
+Action	161
+Detective	156
+Mythology	152
+British Literature	150
+Autobiography	146
+Art	145
+Teen	142
+Espionage	134
+Magical Realism	132
+Space Opera	128
+Family	127
+Essays	125
+Post Apocalyptic	125
+Food	124
+Comic Book	124
+France	123
+Ebooks	120
+Manga	119
+Romantic Suspense	119
+Reference	117
+Coming Of Age	113
+Christianity	112
+Military Fiction	109
+LGBT	107
+Plays	106
+World War II	105
+Historical Romance	103
+Travel	102
+Christian Fiction	101
+Dragons	100
+Fairy Tales	100
+Music	97
+Sports	95
+Faith	93
+Mental Health	92
+Young Adult Fantasy	88
+Africa	85
+Space	85
+Inspirational	82
+Feminism	82
+Queer	82
+Time Travel	81
+Gothic	79
+American History	79
+Kids	78
+Leadership	77
+College	75
+Theatre	73
+19th Century	73
+Cooking	71
+Canada	68
+Asia	67
+Sociology	66
+Japan	62
+Werewolves	62
+20th Century	61
+Economics	60
+Ireland	60
+Theology	60
+High School	60
+Demons	60
+Storytime	59
+Russia	58
+India	58
+Witches	58
+Cookbooks	58
+Angels	56
+Erotic Romance	56
+Southern	56
+Health	55
+African American	55
+Retellings	54
+Zombies	53
+Abuse	52
+Fae	52
+Novella	52
+BDSM	51
+Management	51
+Medieval	50
+Aliens	50
+True Crime	49
+Italy	49
+German Literature	49
+Enemies To Lovers	49
+Christian Living	48
+Shapeshifters	48
+Holocaust	47
+Friendship	47
+Dark	47
+Middle East	45
+Cyberpunk	45
+Christmas	44
+Spanish Literature	44
+Friends To Lovers	44
+French Literature	43
+Agatha Christie	43
+Superheroes	43
+Finance	42
+Steampunk	42
+Epic	42
+Westerns	41
+Dc Comics	41
+China	40
+Regency	40
+Legal Thriller	38
+Books About Books	38
+Satire	38
+Art History	38
+Egypt	38
+New York	38
+Dark Fantasy	38
+Futuristic	38
+Technology	36
+Indian Literature	36
+Sports Romance	36
+Nature	35
+Russian Literature	35
+Japanese Literature	35
+Speculative Fiction	35
+Beach Reads	34
+Entrepreneurship	34
+Irish Literature	34
+Physics	33
+Young Adult Contemporary	33
+Ghosts	33
+Medicine	32
+Productivity	32
+Medical	32
+Scotland	32
+Relationships	31
+Apocalyptic	31
+Shakespeare	30
