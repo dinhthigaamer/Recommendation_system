@@ -138,3 +138,24 @@ Muốn chạy lại agent:
 - Kết quả tìm web phản ánh ngày 11/11/2026. Link nguồn có thể đổi hoặc hỏng về sau.
 - Thuật toán ở luồng 3 là bản rút gọn; tham số và cách tính khác với repo được ghi ở bảng trên và trên trang.
 - Khi agent tìm web chạy, lịch sử của mỗi độc giả thiếu tên 5 đến 12 cuốn do dữ liệu crawl không có. Trang có ghi rõ số này.
+
+## Sơ đồ kiến trúc multi-agent (K3)
+
+Thư mục `docs/` có thêm hai trang sơ đồ cho thiết kế multi-agent mới, gọi là K3. Trong K3, một bộ điều khiển viết bằng code chạy 5 agent LLM: `Profiler`, `Planner`, `Verifier`, `Critic` và `WebScout`. Các mô hình ML cổ điển là công cụ do code gọi, không phải agent.
+
+| File | Nội dung |
+|---|---|
+| `docs/k3-hld-architecture.html` | Hai sơ đồ tĩnh. HLD cho thấy các thành phần và cách chúng nối với nhau. Sơ đồ kiến trúc cho thấy từng bước của luồng 1, các luồng còn lại và thang dự phòng khi agent lỗi |
+| `docs/agent-workflow-prototype.html` | Bản mẫu màn Agent Workflow vẽ bằng React Flow. Sơ đồ không vẽ tay mà tự dựng từ dãy sự kiện chạy, với 3 tab HLD, Kiến trúc và Timeline |
+
+![HLD và kiến trúc agent của K3](docs/k3-hld-architecture.png)
+
+![Bản mẫu màn Agent Workflow, tab Kiến trúc](docs/agent-workflow.png)
+
+Cách xem:
+
+- Tải file `.html` về rồi mở bằng trình duyệt. GitHub chỉ hiện mã nguồn của file HTML, không hiện trang.
+- Trang Agent Workflow cần mạng, vì nó tải React, React Flow và dagre từ CDN.
+- Trong trang Agent Workflow, bấm "Phát lại" để xem sơ đồ mọc dần theo từng sự kiện. Ô chọn lần chạy có 3 kịch bản: luồng 1 đủ agent, luồng 1 khi không có OpenAI key, và tab tìm kiếm.
+
+Bản mẫu dùng dữ liệu sự kiện tự đặt, nên số thời gian, token và kết quả trong đó không phải số đo thật. Khi backend K3 xong, màn này sẽ đọc sự kiện thật từ bảng `run_events` qua API.
